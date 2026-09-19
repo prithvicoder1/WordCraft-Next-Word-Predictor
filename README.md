@@ -102,7 +102,3 @@ Keep the model and preprocessing files in the repository root beside `app.py` wh
 ## Deploy on Render
 
 Create a **Web Service** from this repository using **Docker**. Set the Dockerfile path to `docker/Dockerfile` and the health check path to `/_stcore/health`. The container uses Render's `PORT` when available.
-
----
-
-**Credits:** The training notebooks, dataset, and original model are based on [AkarshVyas/Next_word_prediction](https://github.com/AkarshVyas/Next_word_prediction).
