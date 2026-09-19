@@ -1,7 +1,5 @@
 <div align="center">
 
-![WordCraft — Find your next word](assets/wordcraft-hero.svg)
-
 # WordCraft
 
 ### A little glimpse into what comes next.
